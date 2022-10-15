@@ -29,4 +29,4 @@ Upon launching the risk_return_analysis.ipynb run each cell sequentially.
 
 Here is a graph comparing the returns off some major hedge funds against the S&P 500.
 
-![hedge](hedge_funds_compared.png)
+![hedge](hedge_funds.png)
