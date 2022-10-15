@@ -24,3 +24,9 @@ whale_navs.csv shows average daily price for 4 hedge funds and the S&P 500 from 
 ## Usage
 
 Upon launching the risk_return_analysis.ipynb run each cell sequentially.
+
+## Analysis
+
+Here is a graph comparing the returns off some major hedge funds against the S&P 500.
+
+![hedge](hedge_funds_compared.png)
